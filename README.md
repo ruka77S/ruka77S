@@ -1,2 +1,3 @@
-try to build something, which doesn't necessarily be meaningful, but insteresting
+⚡ try to build something, which doesn't necessarily be meaningful, but insteresting
+
 
