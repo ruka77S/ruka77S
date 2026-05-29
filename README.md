@@ -1,3 +1,3 @@
-⚡ try to build something, which doesn't necessarily be meaningful, but insteresting
+don't know what I am doing
 
 
